@@ -13,7 +13,6 @@ Este projeto é uma aplicação de lista de tarefas (To-Do List) desenvolvida co
 
 - **Front-end:** React
 - **Back-end:** Node.js (Express)
-- **Banco de Dados:** (Opcional, se for usar)
 
 ## Como Executar o Projeto
 
